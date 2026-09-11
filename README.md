@@ -1,4 +1,4 @@
-Data engineer at [Tails.com](https://tails.com). I own the data platform end to end and work inside
+Data engineer at [Tails.com](https://tails.com) 🐶. I own the data platform end to end and work inside
 the databases behind the application.
 
 Start with my [CV](https://github.com/dobsontom/cv/releases/latest/download/Tom-Dobson-CV.pdf) and
